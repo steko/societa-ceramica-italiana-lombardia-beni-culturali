@@ -1,0 +1,3 @@
+This scraper extracts links to PDF records of classified cultural heritage objects from the *Lombardia Beni Culturali* portal.
+
+PDF files are not downloaded and will be processed at a later stage, possibly offline.
